@@ -1,5 +1,3 @@
-# 📝 Review & Summary: Input Data Modeling with Probability Distributions
-
 This document provides an overview and evaluation of the demo project focused on **modeling uncertainty in input data** using a family of probability distributions. It is intended for reviewers, instructors, or team members who want a top-down perspective of the project’s content, educational value, and clarity.
 
 ---
